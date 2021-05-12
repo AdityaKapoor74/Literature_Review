@@ -29,6 +29,7 @@ All the papers are ordered by year of publication, and they can have different g
 | [Effects of a Social Force Model reward in Robot Navigation based on Deep Reinforcement Learning ∗](https://arxiv.org/pdf/1912.03747.pdf) | 2019 | `A` | - |
 | [Socially Aware Crowd Navigation with Multimodal PedestrianTrajectory Prediction for Autonomous Vehicles ∗](https://arxiv.org/pdf/2011.11191.pdf) | 2020 | `M` | - |
 | [Crowd-Robot Interaction:Crowd-aware Robot Navigation with Attention-based Deep Reinforcement Learning ∗](https://arxiv.org/pdf/1809.08835.pdf) | 2019 | `A` | [Author](https://github.com/vita-epfl/CrowdNav) |
+| [Motion Planning Among Dynamic, Decision-Making Agents with Deep Reinforcement Learning ∗](https://arxiv.org/pdf/1805.01956.pdf) | 2018 | `A` | [Author](https://github.com/mit-acl/cadrl_ros) |
 
 
 
